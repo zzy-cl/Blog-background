@@ -1,0 +1,1 @@
+import{b as o}from"./articlemanagement.13e00ad3.js";import{a,o as r,j as c}from"./index.6ec908bf.js";const _={__name:"ArticleList",setup(i){const t=a({id:"1",title:"vue",content:"\u54C8\u54C8\u54C8\u54C8",cover_img:"a",publish_time:"2022.07.29 16:56",state:"\u8349\u7A3F",cate_id:"1"});return o(t.value).then(e=>{console.log(e)}),(e,s)=>(r(),c("div"))}};export{_ as default};
