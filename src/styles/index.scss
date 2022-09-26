@@ -1,0 +1,24 @@
+// @import 导入外部的 css scss sass
+@import "./normalize.scss";
+@import "./transition.scss";
+
+// 表单输入框
+.el-input, .el-textarea {
+  width: 218.4px;
+}
+
+.el-input--small {
+  width: 146px !important;
+}
+
+// a 标签
+a:link, a:visited {
+  color: #606266;
+  text-decoration: none;
+}
+
+a:hover, a:active, a:focus {
+  color: #409eff;
+  text-decoration: none;
+}
+
